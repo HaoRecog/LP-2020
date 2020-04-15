@@ -58,7 +58,7 @@ If you like our work or find LP-2020 dataset useful, please cite the following p
 
 Any suggestion or comment would be valuable. Please send an email to corresponding author (Gee-Sern Hsu) or Database administrator.
 ``` SHENG-LUEN CHUNG,
-@article{hsu2012application,
+@article{hsu2020application,
   title={License Plate 2020: A New Database to Benchmark License Plate Detection and Recognition},
   author={Hsu, Gee-Sern and Chung, Sheng-Luen and Moritz Sontheimer and Yang, Chao-Hsu},
   journal={IEEE transactions on vehicular technology},
