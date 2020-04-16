@@ -49,8 +49,8 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
-[LP-2020 Download Link](https://drive.google.com/open?id=1C1L4mgd8omtCrBbCvei9mItA14ZWDj9O)
-
+[LP-2020 Download Link](
+https://drive.google.com/file/d/1IivwHP5a1rZEzAGpSRVbvWhmeVh2-QgH/view?usp=sharing)
 
 Citation and Contact
 --
