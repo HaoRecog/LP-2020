@@ -52,6 +52,13 @@ Download Link
 [LP-2020 Download Link](
 https://drive.google.com/file/d/1IivwHP5a1rZEzAGpSRVbvWhmeVh2-QgH/view?usp=sharing)
 
+| Path | Description
+| :--- | :----------
+| [LP-2020] | Main folder.
+| &boxvr;&nbsp; [stylegan-paper.pdf] | High-quality version of the paper PDF.
+| &boxvr;&nbsp; [stylegan-video.mp4] | High-quality version of the result video.
+| &boxvr;&nbsp; [images] | Example images produced using our generator.
+
 Citation and Contact
 --
 If you like our work or find LP-2020 dataset useful, please cite the following paper：
