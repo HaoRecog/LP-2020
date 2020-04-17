@@ -58,7 +58,7 @@ https://drive.google.com/file/d/1IivwHP5a1rZEzAGpSRVbvWhmeVh2-QgH/view?usp=shari
 | &boxvr;&nbsp; LP-2020-LPDR | The whole dataset with 7,104 images.
 | &boxv;&nbsp; &boxvr;&nbsp; test | There are 3,552 images and we don't release the ground truth data of the test set
 | &boxv;&nbsp; &boxv;&nbsp; &boxur;&nbsp; img | There are 4,457 readable and 8,265 unreadable license plates.
-| &boxv;&nbsp; &boxvr;&nbsp; train | There are 3,552 images with annotations. 
+| &boxv;&nbsp; &boxur;&nbsp; train | There are 3,552 images with annotations. 
 | &boxv;&nbsp; &ensp;&ensp; &boxvr;&nbsp; img | There are 4,634 readable and 8,354 unreadable license plates.
 | &boxv;&nbsp; &ensp;&ensp; &boxur;&nbsp; xml |
 | &boxur;&nbsp; LP-2020-LPR | the training set for LPR
