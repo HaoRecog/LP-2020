@@ -57,11 +57,11 @@ https://drive.google.com/file/d/1IivwHP5a1rZEzAGpSRVbvWhmeVh2-QgH/view?usp=shari
 | [LP-2020] | Main folder.
 | &boxvr;&nbsp; [LP-2020-LPDR] | The whole dataset with 7,104 images.
 | &boxv;&nbsp; &boxvr;&nbsp; [test] |
-| &boxv;&nbsp; &boxvr;&nbsp; &boxvr;&nbsp; [img] | We don't release the ground truth data of the test set
+| &boxur;&nbsp; &ensp;&ensp; &boxvr;&nbsp; [img] | We don't release the ground truth data of the test set
 | &boxv;&nbsp; &boxvr;&nbsp; [train] | 
 | &boxv;&nbsp; &boxvr;&nbsp; &boxvr;&nbsp; [img] | 
 | &boxv;&nbsp; &boxvr;&nbsp; &boxvr;&nbsp; [xml] |
-| &boxvr;&nbsp; [LP-2020-LPR] | the training set for LPR
+| &boxur;&nbsp; [LP-2020-LPR] | the training set for LPR
 | &boxv;&nbsp; &boxvr;&nbsp; [real] | There are 2,196 real license plate images with annotations. 
 | &boxv;&nbsp; &boxvr;&nbsp; &boxvr;&nbsp; [img] |
 | &boxv;&nbsp; &boxvr;&nbsp; &boxvr;&nbsp; [xml] |
