@@ -62,7 +62,7 @@ https://drive.google.com/file/d/1IivwHP5a1rZEzAGpSRVbvWhmeVh2-QgH/view?usp=shari
 | &boxv;&nbsp; &ensp;&ensp; &boxvr;&nbsp; img | There are 4,634 readable and 8,354 unreadable license plates.
 | &boxv;&nbsp; &ensp;&ensp; &boxur;&nbsp; xml |
 | &boxur;&nbsp; LP-2020-LPR | the training set for LPR
-| &ensp;&ensp; &boxvr;&nbsp; real | There are 2,196 real license plate images with annotations. 
+| &ensp;&ensp; &boxvr;&nbsp; real | There are 3,115 real license plate images with annotations. 
 | &ensp;&ensp; &boxv;&nbsp; &boxvr;&nbsp; img |
 | &ensp;&ensp; &boxv;&nbsp; &boxur;&nbsp; xml |
 | &ensp;&ensp; &boxur;&nbsp; synthesis | There are 20,000 synthetic license plate images with annotations.
