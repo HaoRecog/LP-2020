@@ -50,7 +50,7 @@ No country or institution is excluded of any of the above restrictions. Failure 
 Download Link
 -
 [LP-2020 Download Link](
-https://drive.google.com/file/d/1IivwHP5a1rZEzAGpSRVbvWhmeVh2-QgH/view?usp=sharing)
+https://drive.google.com/open?id=1jx_cWnXpfW6iDjq73emnahw5F9ahclJi)
 
 | Path | Description
 | :--- | :----------
